@@ -1,3 +1,5 @@
+## This is a video streaming application that build with react and redux.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
